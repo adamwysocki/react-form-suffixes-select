@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render 1`] = `
+<div
+  className="sc-bdVaJa dpXQOA"
+>
+  <select
+    className=""
+    id="suffix"
+    name="suffix"
+    onChange={[Function]}
+    style={Object {}}
+  >
+    <option
+      value="null"
+    >
+      Suffix
+    </option>
+    <option
+      value={0}
+    >
+      II
+    </option>
+    <option
+      value={1}
+    >
+      III
+    </option>
+    <option
+      value={2}
+    >
+      IV
+    </option>
+    <option
+      value={3}
+    >
+      CPA
+    </option>
+    <option
+      value={4}
+    >
+      DDS
+    </option>
+    <option
+      value={5}
+    >
+      Esq
+    </option>
+    <option
+      value={6}
+    >
+      JD
+    </option>
+    <option
+      value={7}
+    >
+      Jr
+    </option>
+    <option
+      value={8}
+    >
+      LLD
+    </option>
+    <option
+      value={9}
+    >
+      MD
+    </option>
+    <option
+      value={10}
+    >
+      PhD
+    </option>
+    <option
+      value={11}
+    >
+      Ret
+    </option>
+    <option
+      value={12}
+    >
+      RN
+    </option>
+    <option
+      value={13}
+    >
+      Sr
+    </option>
+    <option
+      value={14}
+    >
+      DO
+    </option>
+  </select>
+</div>
+`;
